@@ -4,6 +4,7 @@
 
 ## Развертывание
 g++ ebook.cpp -o ebook -std=c++17 -O3
+
 ./ebook.cpp < input.txt
 
 # Команды
